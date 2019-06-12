@@ -1,0 +1,36 @@
+﻿零基础如何系统的学习python
+Python机器学习入
+Python操作三大主流数据库
+Python Flask高级编程
+Python移动自动化测试面试
+Python服务端工程师就业面试指导
+Python+Django+Ansible Playbook自动化运维项目实战
+从零起步 系统入门Python爬虫工程师
+Python接口自动化测试框架实战
+Python Flask构建微信小程序订餐系统
+Python高级编程和异步IO并发编程
+Python数据分析入门与实践
+基于Python玩转人工智能框架 TensorFlow应用实践
+聚焦Python分布式爬虫必学框架Scrapy 打造搜索引擎
+Python爬虫工程师必学 App数据抓取实战
+手把手教你把Python应用到实际开发 不再空谈语法
+Python升级3.6强力Django+杀手级Xadmin打造在线教育平台
+Python3实用编程技巧进阶
+初识Python
+Python-面向对象
+Python文件处理
+python进阶
+Python实现线性回归
+python正则表达式
+python遇见数据采集
+Python数据分析-基础技术篇
+Python最火爬虫框架Scrapy入门与实践
+python必学模块-collections
+走进Python量化交易--入门篇
+Python开发简单爬虫
+Python工程师
+Python零基础入门教程
+Python推荐系统
+Python数据结构与算法视频教程
+Python游戏开发入门
+
